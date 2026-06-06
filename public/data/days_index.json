@@ -1,0 +1,33 @@
+{
+  "updated_at": "2026-06-06T17:07:59.333Z",
+  "current_day": 3,
+  "days": [
+    {
+      "day": 1,
+      "theme": "Workplace Introductions and Study Planning",
+      "date_label": "6/7",
+      "phase": "Foundation",
+      "level": "B1+",
+      "estimated_minutes": 18,
+      "file": "day_001.json"
+    },
+    {
+      "day": 2,
+      "theme": "Daily Routines and Time Management",
+      "date_label": "6/6",
+      "phase": "Foundation",
+      "level": "B1+",
+      "estimated_minutes": 17,
+      "file": "day_002.json"
+    },
+    {
+      "day": 3,
+      "theme": "Travel and Cultural Exchange",
+      "date_label": "6/7",
+      "phase": "Foundation",
+      "level": "B1+",
+      "estimated_minutes": 18,
+      "file": "day_003.json"
+    }
+  ]
+}
