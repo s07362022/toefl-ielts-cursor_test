@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-14T09:22:03.217400+00:00",
-  "current_day": 3,
+  "updated_at": "2026-06-29T01:16:22.069962+00:00",
+  "current_day": 4,
   "days": [
     {
       "day": 1,
@@ -28,6 +28,15 @@
       "level": "B1+",
       "estimated_minutes": 18,
       "file": "day_003.json"
+    },
+    {
+      "day": 4,
+      "theme": "Technology in Modern Life",
+      "date_label": "6/29",
+      "phase": "Foundation",
+      "level": "B1+",
+      "estimated_minutes": 19,
+      "file": "day_004.json"
     }
   ]
 }
