@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-29T01:16:22.069962+00:00",
-  "current_day": 4,
+  "updated_at": "2026-07-14T01:53:16.028657+00:00",
+  "current_day": 5,
   "days": [
     {
       "day": 1,
@@ -37,6 +37,15 @@
       "level": "B1+",
       "estimated_minutes": 19,
       "file": "day_004.json"
+    },
+    {
+      "day": 5,
+      "theme": "Health and Work-Life Balance",
+      "date_label": "7/14",
+      "phase": "Foundation",
+      "level": "B1+",
+      "estimated_minutes": 20,
+      "file": "day_005.json"
     }
   ]
 }

@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "day": 5,
+    "date_label": "7/14",
+    "phase": "Foundation",
+    "level": "B1+",
+    "estimated_minutes": 20,
+    "exam_focus": [
+      "TOEFL",
+      "IELTS",
+      "Daily Speaking"
+    ],
+    "theme": "Health and Work-Life Balance",
+    "weekday_plan": "Integrated basics - reading + listening + speaking/writing"
+  },
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "outcome",
+      "type": "n.",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "結果",
+      "example": "The phrase 'outcome' is useful when discussing study, work, or academic topics.",
+      "collocation": "outcome",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 2,
+      "word": "emphasis for writing",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "TOEFL",
+      "status": "new",
+      "definition_tw": "與「強調」相關的常用片語",
+      "example": "The phrase 'emphasis for writing' is useful when discussing study, work, or academic topics.",
+      "collocation": "emphasis for writing",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 3,
+      "word": "manage results",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Daily",
+      "status": "new",
+      "definition_tw": "與「管理；處理」相關的常用片語",
+      "example": "The phrase 'manage results' is useful when discussing study, work, or academic topics.",
+      "collocation": "manage results",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 4,
+      "word": "initial response",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「最初的」相關的常用片語",
+      "example": "The phrase 'initial response' is useful when discussing study, work, or academic topics.",
+      "collocation": "initial response",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 5,
+      "word": "initial in daily communication",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「最初的」相關的常用片語",
+      "example": "The phrase 'initial in daily communication' is useful when discussing study, work, or academic topics.",
+      "collocation": "initial in daily communication",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 6,
+      "word": "academic insight",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「洞察」相關的常用片語",
+      "example": "The phrase 'academic insight' is useful when discussing study, work, or academic topics.",
+      "collocation": "academic insight",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 7,
+      "word": "mutual evidence",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「相互的」相關的常用片語",
+      "example": "The phrase 'mutual evidence' is useful when discussing study, work, or academic topics.",
+      "collocation": "mutual evidence",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 8,
+      "word": "academic finance",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「財務；金融」相關的常用片語",
+      "example": "The phrase 'academic finance' is useful when discussing study, work, or academic topics.",
+      "collocation": "academic finance",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 9,
+      "word": "equivalent",
+      "type": "adj./n.",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "相等的；等同物",
+      "example": "The phrase 'equivalent' is useful when discussing study, work, or academic topics.",
+      "collocation": "equivalent",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 10,
+      "word": "key mechanism",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "TOEFL",
+      "status": "new",
+      "definition_tw": "與「機制」相關的常用片語",
+      "example": "The phrase 'key mechanism' is useful when discussing study, work, or academic topics.",
+      "collocation": "key mechanism",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 11,
+      "word": "consume a response",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "IELTS",
+      "status": "new",
+      "definition_tw": "與「消耗；消費」相關的常用片語",
+      "example": "The phrase 'consume a response' is useful when discussing study, work, or academic topics.",
+      "collocation": "consume a response",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 12,
+      "word": "contribute results",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「貢獻；促成」相關的常用片語",
+      "example": "The phrase 'contribute results' is useful when discussing study, work, or academic topics.",
+      "collocation": "contribute results",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 13,
+      "word": "principle",
+      "type": "n.",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "原則",
+      "example": "The phrase 'principle' is useful when discussing study, work, or academic topics.",
+      "collocation": "principle",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 14,
+      "word": "interaction strategy",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「互動」相關的常用片語",
+      "example": "The phrase 'interaction strategy' is useful when discussing study, work, or academic topics.",
+      "collocation": "interaction strategy",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 15,
+      "word": "academic margin",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「差距；邊緣」相關的常用片語",
+      "example": "The phrase 'academic margin' is useful when discussing study, work, or academic topics.",
+      "collocation": "academic margin",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 16,
+      "word": "disadvantage in context",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "IELTS",
+      "status": "review",
+      "definition_tw": "與「缺點」相關的常用片語",
+      "example": "The phrase 'disadvantage in context' is useful when discussing study, work, or academic topics.",
+      "collocation": "disadvantage in context",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 17,
+      "word": "consume a trend",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "IELTS",
+      "status": "review",
+      "definition_tw": "與「消耗；消費」相關的常用片語",
+      "example": "The phrase 'consume a trend' is useful when discussing study, work, or academic topics.",
+      "collocation": "consume a trend",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 18,
+      "word": "policy",
+      "type": "n.",
+      "phonetic_us": "",
+      "category": "IELTS",
+      "status": "review",
+      "definition_tw": "政策",
+      "example": "The phrase 'policy' is useful when discussing study, work, or academic topics.",
+      "collocation": "policy",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 19,
+      "word": "schedule",
+      "type": "n./v.",
+      "phonetic_us": "/ˈskedʒuːl/",
+      "category": "Daily",
+      "status": "review",
+      "definition_tw": "行程；安排",
+      "example": "I schedule twenty minutes of English practice every morning.",
+      "collocation": "busy schedule; schedule a meeting",
+      "usage_note_tw": "日常與商務皆極高頻。"
+    },
+    {
+      "id": 20,
+      "word": "pronunciation",
+      "type": "n.",
+      "phonetic_us": "/prəˌnʌnsiˈeɪʃən/",
+      "category": "IELTS",
+      "status": "review",
+      "definition_tw": "發音",
+      "example": "Shadowing exercises can improve pronunciation and listening speed.",
+      "collocation": "clear pronunciation; improve pronunciation",
+      "usage_note_tw": "口說評分相關詞彙。"
+    }
+  ],
+  "grammar_focus": {
+    "title": "Using 'Compared to..., ...' for Comparison",
+    "function": "比較兩種做法或觀點。",
+    "explanation_tw": "寫作與口說中比較選項時，可用 Compared to 引出對照。",
+    "pattern": "Compared to A, B is more + adj.",
+    "example_basic": "Compared to passive reading, active recall is more effective.",
+    "example_advanced": "Compared to cramming before the test, daily micro-practice is more sustainable for adult learners."
+  },
+  "reading": {
+    "title": "Health",
+    "text": "Success on TOEFL and IELTS depends on more than memorizing word lists. Students must learn to understand passages, identify key ideas in context, and draw reasonable conclusions from incomplete information. Today's lesson highlights language such as 'outcome', 'emphasis for writing', 'manage results', and 'initial response', because these terms often appear in academic reading, lectures, or discussion prompts. In listening tasks, recognizing signal words helps learners interpret the speaker's attitude and purpose. When writing academic responses, it is important to present a clear position and support it with evidence. Many instructors recommend combining input and output activities because the two reinforce each other. A structured review plan ensures that difficult topics receive enough attention before exam day. From phrases like 'initial in daily communication', 'academic insight', and 'mutual evidence', learners can extract patterns they can reuse in speaking and writing. Candidates who practice under timed conditions become more comfortable with the pace of real exams. They also learn to prioritize high-value tasks such as summarizing main ideas and organizing supporting details. This balanced approach helps candidates move toward their target score without unnecessary stress or last-minute cramming.",
+    "embedded_words": [
+      "outcome",
+      "emphasis for writing",
+      "manage results",
+      "initial response",
+      "initial in daily communication",
+      "academic insight"
+    ],
+    "translation_tw": "TOEFL 與 IELTS 的成功不只靠背單字。學生必須學會分析文章、在上下文中辨識關鍵概念，並從不完整資訊中做出合理推論。聽力任務中，辨識訊號詞有助於詮釋說話者態度。學術寫作回應時，清楚表明立場並以證據支持很重要。許多教師提倡結合輸入與輸出活動，因兩者相輔相成。全面的複習計畫確保困難主題在考試前獲得足夠關注。從每個觀點中，學習者應萃取可重複用於口說與寫作的實用片語。這種平衡策略幫助考生達成目標分數而不必過度焦慮。"
+  },
+  "listening_speaking": [
+    {
+      "id": 1,
+      "sentence": "Success on TOEFL and IELTS depends on more than memorizing word lists.",
+      "pronunciation_tips_tw": "注意功能詞的連音與重音位置，先慢速再加速。",
+      "shadowing_steps_tw": "先聽一次，再逐句跟讀，最後不看文字朗讀。",
+      "focus": "linking"
+    },
+    {
+      "id": 2,
+      "sentence": "Students must learn to understand passages, identify key ideas in context, and draw reasonable conclusions from incomplete information.",
+      "pronunciation_tips_tw": "留意 and、to、of 等虛詞的弱化發音。",
+      "shadowing_steps_tw": "先慢速跟讀兩遍，再加速至正常語速。",
+      "focus": "reduction"
+    },
+    {
+      "id": 3,
+      "sentence": "Today's lesson highlights language such as 'outcome', 'emphasis for writing', 'manage results', and 'initial response', because these terms often appear in academic reading, lectures, or discussion prompts.",
+      "pronunciation_tips_tw": "句尾語調略下降，表示陳述句結束。",
+      "shadowing_steps_tw": "分段練習後，最後整句連貫朗讀一次。",
+      "focus": "intonation"
+    }
+  ],
+  "toefl_skill_drill": {
+    "skill_type": "integrated_speaking_basic",
+    "instruction_tw": "請依今日所學完成一題 TOEFL 導向練習，口說 45 秒或寫 3–4 句。",
+    "prompt": "Summarize the main idea of today's reading and add your opinion.",
+    "response_framework": "I believe ___. One reason is that ___. For example, ___. As a result, ___.",
+    "sample_answer": "I believe daily practice is essential. One reason is that it builds outcome over time. For example, I review vocabulary every morning before work. As a result, I feel more prepared for academic tasks.",
+    "useful_phrases": [
+      "outcome",
+      "emphasis for writing",
+      "manage results"
+    ]
+  },
+  "daily_quiz": [
+    {
+      "question_id": 1,
+      "question": "Which definition best matches 'outcome'?",
+      "options": [
+        "A. 結果",
+        "B. 與「強調」相關的常用片語",
+        "C. 與「管理",
+        "D. 與「最初的」相關的常用片語"
+      ],
+      "answer": "A",
+      "explanation_tw": "今日單字 outcome 的解釋為「結果」。"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the main idea of today's reading?",
+      "options": [
+        "A. Effective learning requires consistent, structured practice.",
+        "B. Cramming once a week is the best method.",
+        "C. Vocabulary lists alone guarantee a high score.",
+        "D. Test preparation should avoid speaking practice."
+      ],
+      "answer": "A",
+      "explanation_tw": "文章強調有限時間下，持續且結構化的練習才能帶來進步。"
+    },
+    {
+      "question_id": 3,
+      "question": "Which sentence uses today's grammar pattern correctly?",
+      "options": [
+        "A. I like English. Because it is useful.",
+        "B. In my opinion, practice helps. One reason is that it builds fluency.",
+        "C. Practice good and fun.",
+        "D. English hard but I try."
+      ],
+      "answer": "B",
+      "explanation_tw": "選項 B 正確運用 In my opinion... One reason is that... 句型。"
+    }
+  ],
+  "history_update": {
+    "new_words_today": [
+      "outcome",
+      "emphasis for writing",
+      "manage results",
+      "initial response",
+      "initial in daily communication",
+      "academic insight",
+      "mutual evidence",
+      "academic finance",
+      "equivalent",
+      "key mechanism",
+      "consume a response",
+      "contribute results",
+      "principle",
+      "interaction strategy",
+      "academic margin"
+    ],
+    "review_words_today": [
+      "disadvantage in context",
+      "consume a trend",
+      "policy",
+      "schedule",
+      "pronunciation"
+    ],
+    "grammar_today": "Using 'Compared to..., ...' for Comparison",
+    "theme_today": "Health and Work-Life Balance",
+    "skill_type_today": "integrated_speaking_basic"
+  },
+  "gmail_email": {
+    "recipient": "s07362022@gmail.com",
+    "subject": "Day 5 英文學習｜Health and Work-Life Balance",
+    "html_body": "<h1>Day 5 英文學習</h1><p><strong>今日主題：</strong>Health and Work-Life Balance</p><p><strong>階段：</strong>Foundation · <strong>程度：</strong>B1+ · <strong>預估：</strong>20 分鐘</p><p><strong>今日訓練：</strong>Integrated basics - reading + listening + speaking/writing</p><hr><h2>今日單字</h2><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%'><tr><th>單字</th><th>音標</th><th>解釋</th><th>狀態</th></tr><tr><td><strong>outcome</strong></td><td></td><td>結果</td><td>新詞</td></tr><tr><td><strong>emphasis for writing</strong></td><td></td><td>與「強調」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>manage results</strong></td><td></td><td>與「管理；處理」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>initial response</strong></td><td></td><td>與「最初的」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>initial in daily communication</strong></td><td></td><td>與「最初的」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>academic insight</strong></td><td></td><td>與「洞察」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>mutual evidence</strong></td><td></td><td>與「相互的」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>academic finance</strong></td><td></td><td>與「財務；金融」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>equivalent</strong></td><td></td><td>相等的；等同物</td><td>新詞</td></tr><tr><td><strong>key mechanism</strong></td><td></td><td>與「機制」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>consume a response</strong></td><td></td><td>與「消耗；消費」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>contribute results</strong></td><td></td><td>與「貢獻；促成」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>principle</strong></td><td></td><td>原則</td><td>新詞</td></tr><tr><td><strong>interaction strategy</strong></td><td></td><td>與「互動」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>academic margin</strong></td><td></td><td>與「差距；邊緣」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>disadvantage in context</strong></td><td></td><td>與「缺點」相關的常用片語</td><td>複習</td></tr><tr><td><strong>consume a trend</strong></td><td></td><td>與「消耗；消費」相關的常用片語</td><td>複習</td></tr><tr><td><strong>policy</strong></td><td></td><td>政策</td><td>複習</td></tr><tr><td><strong>schedule</strong></td><td>/ˈskedʒuːl/</td><td>行程；安排</td><td>複習</td></tr><tr><td><strong>pronunciation</strong></td><td>/prəˌnʌnsiˈeɪʃən/</td><td>發音</td><td>複習</td></tr></table><hr><h2>文法重點</h2><p><strong>Using &#x27;Compared to..., ...&#x27; for Comparison</strong></p><p>寫作與口說中比較選項時，可用 Compared to 引出對照。</p><p><em>Compared to A, B is more + adj.</em></p><p>Compared to cramming before the test, daily micro-practice is more sustainable for adult learners.</p><hr><h2>閱讀：Health</h2><p>Success on TOEFL and IELTS depends on more than memorizing word lists. Students must learn to understand passages, identify key ideas in context, and draw reasonable conclusions from incomplete information. Today&#x27;s lesson highlights language such as &#x27;outcome&#x27;, &#x27;emphasis for writing&#x27;, &#x27;manage results&#x27;, and &#x27;initial response&#x27;, because these terms often appear in academic reading, lectures, or discussion prompts. In listening tasks, recognizing signal words helps learners interpret the speaker&#x27;s attitude and purpose. When writing academic responses, it is important to present a clear position and support it with evidence. Many instructors recommend combining input and output activities because the two reinforce each other. A structured review plan ensures that difficult topics receive enough attention before exam day. From phrases like &#x27;initial in daily communication&#x27;, &#x27;academic insight&#x27;, and &#x27;mutual evidence&#x27;, learners can extract patterns they can reuse in speaking and writing. Candidates who practice under timed conditions become more comfortable with the pace of real exams. They also learn to prioritize high-value tasks such as summarizing main ideas and organizing supporting details. This balanced approach helps candidates move toward their target score without unnecessary stress or last-minute cramming.</p><p><strong>中文翻譯：</strong>TOEFL 與 IELTS 的成功不只靠背單字。學生必須學會分析文章、在上下文中辨識關鍵概念，並從不完整資訊中做出合理推論。聽力任務中，辨識訊號詞有助於詮釋說話者態度。學術寫作回應時，清楚表明立場並以證據支持很重要。許多教師提倡結合輸入與輸出活動，因兩者相輔相成。全面的複習計畫確保困難主題在考試前獲得足夠關注。從每個觀點中，學習者應萃取可重複用於口說與寫作的實用片語。這種平衡策略幫助考生達成目標分數而不必過度焦慮。</p><hr><h2>跟讀練習（3 句）</h2><h3>第 1 句</h3><p><strong>Success on TOEFL and IELTS depends on more than memorizing word lists.</strong></p><p>發音提示：注意功能詞的連音與重音位置，先慢速再加速。</p><p>跟讀步驟：先聽一次，再逐句跟讀，最後不看文字朗讀。</p><h3>第 2 句</h3><p><strong>Students must learn to understand passages, identify key ideas in context, and draw reasonable conclusions from incomplete information.</strong></p><p>發音提示：留意 and、to、of 等虛詞的弱化發音。</p><p>跟讀步驟：先慢速跟讀兩遍，再加速至正常語速。</p><h3>第 3 句</h3><p><strong>Today&#x27;s lesson highlights language such as &#x27;outcome&#x27;, &#x27;emphasis for writing&#x27;, &#x27;manage results&#x27;, and &#x27;initial response&#x27;, because these terms often appear in academic reading, lectures, or discussion prompts.</strong></p><p>發音提示：句尾語調略下降，表示陳述句結束。</p><p>跟讀步驟：分段練習後，最後整句連貫朗讀一次。</p><hr><h2>TOEFL 技能訓練</h2><p>請依今日所學完成一題 TOEFL 導向練習，口說 45 秒或寫 3–4 句。</p><p><strong>題目：</strong>Summarize the main idea of today&#x27;s reading and add your opinion.</p><p><strong>架構：</strong>I believe ___. One reason is that ___. For example, ___. As a result, ___.</p><p><strong>範例：</strong>I believe daily practice is essential. One reason is that it builds outcome over time. For example, I review vocabulary every morning before work. As a result, I feel more prepared for academic tasks.</p><hr><h2>每日測驗（含答案）</h2><p><strong>Q1.</strong> Which definition best matches &#x27;outcome&#x27;?</p><ul><li>A. 結果</li><li>B. 與「強調」相關的常用片語</li><li>C. 與「管理</li><li>D. 與「最初的」相關的常用片語</li></ul><p><strong>答案：A</strong> — 今日單字 outcome 的解釋為「結果」。</p><p><strong>Q2.</strong> What is the main idea of today&#x27;s reading?</p><ul><li>A. Effective learning requires consistent, structured practice.</li><li>B. Cramming once a week is the best method.</li><li>C. Vocabulary lists alone guarantee a high score.</li><li>D. Test preparation should avoid speaking practice.</li></ul><p><strong>答案：A</strong> — 文章強調有限時間下，持續且結構化的練習才能帶來進步。</p><p><strong>Q3.</strong> Which sentence uses today&#x27;s grammar pattern correctly?</p><ul><li>A. I like English. Because it is useful.</li><li>B. In my opinion, practice helps. One reason is that it builds fluency.</li><li>C. Practice good and fun.</li><li>D. English hard but I try.</li></ul><p><strong>答案：B</strong> — 選項 B 正確運用 In my opinion... One reason is that... 句型。</p><hr><p><em>祝學習順利！明日 09:00 將寄送下一課。</em></p>"
+  }
+}
