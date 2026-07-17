@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "day": 6,
+    "date_label": "7/17",
+    "phase": "Foundation",
+    "level": "B1+",
+    "estimated_minutes": 15,
+    "exam_focus": [
+      "TOEFL",
+      "IELTS",
+      "Daily Speaking"
+    ],
+    "theme": "Social Communication Skills",
+    "weekday_plan": "Mixed TOEFL mini practice"
+  },
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "dependency for writing",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「依賴」相關的常用片語",
+      "example": "The phrase 'dependency for writing' is useful when discussing study, work, or academic topics.",
+      "collocation": "dependency for writing",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 2,
+      "word": "implication",
+      "type": "n.",
+      "phonetic_us": "/ˌɪmplɪˈkeɪʃən/",
+      "category": "TOEFL",
+      "status": "new",
+      "definition_tw": "含義；影響",
+      "example": "The implication of the study is that short daily practice works.",
+      "collocation": "practical implication; broader implications",
+      "usage_note_tw": "推論題常考。"
+    },
+    {
+      "id": 3,
+      "word": "negotiate",
+      "type": "v.",
+      "phonetic_us": "/nɪˈɡoʊʃieɪt/",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "協商",
+      "example": "Professionals often negotiate deadlines in international teams.",
+      "collocation": "negotiate a deal; negotiate terms",
+      "usage_note_tw": "商務社交高頻。"
+    },
+    {
+      "id": 4,
+      "word": "conclusion in context",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "TOEFL",
+      "status": "new",
+      "definition_tw": "與「結論」相關的常用片語",
+      "example": "The phrase 'conclusion in context' is useful when discussing study, work, or academic topics.",
+      "collocation": "conclusion in context",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 5,
+      "word": "global approach",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "IELTS",
+      "status": "new",
+      "definition_tw": "與「全球的」相關的常用片語",
+      "example": "The phrase 'global approach' is useful when discussing study, work, or academic topics.",
+      "collocation": "global approach",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 6,
+      "word": "invest a response",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「投資」相關的常用片語",
+      "example": "The phrase 'invest a response' is useful when discussing study, work, or academic topics.",
+      "collocation": "invest a response",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 7,
+      "word": "key component",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「組成部分」相關的常用片語",
+      "example": "The phrase 'key component' is useful when discussing study, work, or academic topics.",
+      "collocation": "key component",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 8,
+      "word": "key logic",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「邏輯」相關的常用片語",
+      "example": "The phrase 'key logic' is useful when discussing study, work, or academic topics.",
+      "collocation": "key logic",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 9,
+      "word": "mutual in daily communication",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「相互的」相關的常用片語",
+      "example": "The phrase 'mutual in daily communication' is useful when discussing study, work, or academic topics.",
+      "collocation": "mutual in daily communication",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 10,
+      "word": "ambitious in academic writing",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「有企圖心的」相關的常用片語",
+      "example": "The phrase 'ambitious in academic writing' is useful when discussing study, work, or academic topics.",
+      "collocation": "ambitious in academic writing",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 11,
+      "word": "available response",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Daily",
+      "status": "new",
+      "definition_tw": "與「可取得的」相關的常用片語",
+      "example": "The phrase 'available response' is useful when discussing study, work, or academic topics.",
+      "collocation": "available response",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 12,
+      "word": "mode in context",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「模式」相關的常用片語",
+      "example": "The phrase 'mode in context' is useful when discussing study, work, or academic topics.",
+      "collocation": "mode in context",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 13,
+      "word": "highly considerable",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「相當大的」相關的常用片語",
+      "example": "The phrase 'highly considerable' is useful when discussing study, work, or academic topics.",
+      "collocation": "highly considerable",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 14,
+      "word": "ambitious",
+      "type": "adj.",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "有企圖心的",
+      "example": "The phrase 'ambitious' is useful when discussing study, work, or academic topics.",
+      "collocation": "ambitious",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 15,
+      "word": "highly mature",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「成熟的」相關的常用片語",
+      "example": "The phrase 'highly mature' is useful when discussing study, work, or academic topics.",
+      "collocation": "highly mature",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 16,
+      "word": "academic finance",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "review",
+      "definition_tw": "與「財務；金融」相關的常用片語",
+      "example": "The phrase 'academic finance' is useful when discussing study, work, or academic topics.",
+      "collocation": "academic finance",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 17,
+      "word": "considerable in academic writing",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "review",
+      "definition_tw": "與「相當大的」相關的常用片語",
+      "example": "The phrase 'considerable in academic writing' is useful when discussing study, work, or academic topics.",
+      "collocation": "considerable in academic writing",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 18,
+      "word": "mutual evidence",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "review",
+      "definition_tw": "與「相互的」相關的常用片語",
+      "example": "The phrase 'mutual evidence' is useful when discussing study, work, or academic topics.",
+      "collocation": "mutual evidence",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 19,
+      "word": "introduce",
+      "type": "v.",
+      "phonetic_us": "/ˌɪntrəˈduːs/",
+      "category": "Business",
+      "status": "review",
+      "definition_tw": "介紹；引進",
+      "example": "Let me introduce myself and explain my study goals.",
+      "collocation": "introduce yourself; introduce a topic",
+      "usage_note_tw": "職場自我介紹必備。"
+    },
+    {
+      "id": 20,
+      "word": "feature development",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "review",
+      "definition_tw": "與「特色；特徵」相關的常用片語",
+      "example": "The phrase 'feature development' is useful when discussing study, work, or academic topics.",
+      "collocation": "feature development",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    }
+  ],
+  "grammar_focus": {
+    "title": "Using 'The main reason is that...'",
+    "function": "強調最主要原因。",
+    "explanation_tw": "當有多個理由時，用 The main reason is that 聚焦核心論點。",
+    "pattern": "The main reason is that S + V.",
+    "example_basic": "The main reason is that I need feedback on pronunciation.",
+    "example_advanced": "The main reason is that structured review helps me retain academic vocabulary longer."
+  },
+  "reading": {
+    "title": "Communication in Professional Settings",
+    "text": "In today's global workplace, professionals must communicate clearly across cultures and time zones. Team members often collaborate on projects while managing demanding schedules, so precise language matters. Today's vocabulary introduces expressions such as 'dependency for writing', 'implication', 'negotiate', and 'conclusion in context'; each one can help learners explain work, travel, or cultural situations with more confidence. When presenting ideas, speakers should connect their message to relevant examples. It is also crucial to remain calm during discussions and respond to feedback constructively. Managers may negotiate deadlines or resources, so employees need flexible communication skills. A clear meeting agenda helps groups allocate time and stay focused on relevant priorities. Although challenges are inherent in international teams, shared goals can improve collaboration across departments. Expressions like 'global approach', 'invest a response', and 'key component' are useful because they allow professionals to summarize decisions, ask follow-up questions, and reduce misunderstandings before a project moves forward. Companies that invest in language training frequently report smoother negotiations and stronger relationships with overseas partners. As a result, communication training is no longer optional for ambitious professionals in competitive industries.",
+    "embedded_words": [
+      "dependency for writing",
+      "implication",
+      "negotiate",
+      "conclusion in context",
+      "global approach",
+      "invest a response"
+    ],
+    "translation_tw": "在今日全球職場中，專業人士必須跨文化與跨時區清楚溝通。團隊成員常在管理繁忙行程的同時合作專案。報告想法時，說話者應以相關例子傳達訊息。討論中保持自信並建設性回應回饋也至關重要。主管可能協商截止日期或資源，因此員工需要有效的溝通技巧。清楚的會議議程有助團隊分配時間並保持專注。雖然國際團隊挑戰固有，共同目標能促進合作。因此，投資語言培訓的公司常見團隊合作與客戶關係的顯著改善。"
+  },
+  "listening_speaking": [
+    {
+      "id": 1,
+      "sentence": "In today's global workplace, professionals must communicate clearly across cultures and time zones.",
+      "pronunciation_tips_tw": "注意功能詞的連音與重音位置，先慢速再加速。",
+      "shadowing_steps_tw": "先聽一次，再逐句跟讀，最後不看文字朗讀。",
+      "focus": "linking"
+    },
+    {
+      "id": 2,
+      "sentence": "Team members often collaborate on projects while managing demanding schedules, so precise language matters.",
+      "pronunciation_tips_tw": "留意 and、to、of 等虛詞的弱化發音。",
+      "shadowing_steps_tw": "先慢速跟讀兩遍，再加速至正常語速。",
+      "focus": "reduction"
+    },
+    {
+      "id": 3,
+      "sentence": "Today's vocabulary introduces expressions such as 'dependency for writing', 'implication', 'negotiate', and 'conclusion in context'; each one can help learners explain work, travel, or cultural situations with more confidence.",
+      "pronunciation_tips_tw": "句尾語調略下降，表示陳述句結束。",
+      "shadowing_steps_tw": "分段練習後，最後整句連貫朗讀一次。",
+      "focus": "intonation"
+    }
+  ],
+  "toefl_skill_drill": {
+    "skill_type": "mixed_review",
+    "instruction_tw": "請依今日所學完成一題 TOEFL 導向練習，口說 45 秒或寫 3–4 句。",
+    "prompt": "How would you use 'dependency for writing' in a TOEFL speaking answer about Social Communication Skills?",
+    "response_framework": "I believe ___. One reason is that ___. For example, ___. As a result, ___.",
+    "sample_answer": "I believe daily practice is essential. One reason is that it builds dependency for writing over time. For example, I review vocabulary every morning before work. As a result, I feel more prepared for academic tasks.",
+    "useful_phrases": [
+      "dependency for writing",
+      "implication",
+      "negotiate"
+    ]
+  },
+  "daily_quiz": [
+    {
+      "question_id": 1,
+      "question": "Which definition best matches 'dependency for writing'?",
+      "options": [
+        "A. 與「依賴」相關的常用片語",
+        "B. 含義",
+        "C. 協商",
+        "D. 與「結論」相關的常用片語"
+      ],
+      "answer": "A",
+      "explanation_tw": "今日單字 dependency for writing 的解釋為「與「依賴」相關的常用片語」。"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the main idea of today's reading?",
+      "options": [
+        "A. Effective learning requires consistent, structured practice.",
+        "B. Cramming once a week is the best method.",
+        "C. Vocabulary lists alone guarantee a high score.",
+        "D. Test preparation should avoid speaking practice."
+      ],
+      "answer": "A",
+      "explanation_tw": "文章強調有限時間下，持續且結構化的練習才能帶來進步。"
+    },
+    {
+      "question_id": 3,
+      "question": "Which sentence uses today's grammar pattern correctly?",
+      "options": [
+        "A. I like English. Because it is useful.",
+        "B. In my opinion, practice helps. One reason is that it builds fluency.",
+        "C. Practice good and fun.",
+        "D. English hard but I try."
+      ],
+      "answer": "B",
+      "explanation_tw": "選項 B 正確運用 In my opinion... One reason is that... 句型。"
+    }
+  ],
+  "history_update": {
+    "new_words_today": [
+      "dependency for writing",
+      "implication",
+      "negotiate",
+      "conclusion in context",
+      "global approach",
+      "invest a response",
+      "key component",
+      "key logic",
+      "mutual in daily communication",
+      "ambitious in academic writing",
+      "available response",
+      "mode in context",
+      "highly considerable",
+      "ambitious",
+      "highly mature"
+    ],
+    "review_words_today": [
+      "academic finance",
+      "considerable in academic writing",
+      "mutual evidence",
+      "introduce",
+      "feature development"
+    ],
+    "grammar_today": "Using 'The main reason is that...'",
+    "theme_today": "Social Communication Skills",
+    "skill_type_today": "mixed_review"
+  },
+  "gmail_email": {
+    "recipient": "s07362022@gmail.com",
+    "subject": "Day 6 英文學習｜Social Communication Skills",
+    "html_body": "<h1>Day 6 英文學習</h1><p><strong>今日主題：</strong>Social Communication Skills</p><p><strong>階段：</strong>Foundation · <strong>程度：</strong>B1+ · <strong>預估：</strong>15 分鐘</p><p><strong>今日訓練：</strong>Mixed TOEFL mini practice</p><hr><h2>今日單字</h2><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%'><tr><th>單字</th><th>音標</th><th>解釋</th><th>狀態</th></tr><tr><td><strong>dependency for writing</strong></td><td></td><td>與「依賴」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>implication</strong></td><td>/ˌɪmplɪˈkeɪʃən/</td><td>含義；影響</td><td>新詞</td></tr><tr><td><strong>negotiate</strong></td><td>/nɪˈɡoʊʃieɪt/</td><td>協商</td><td>新詞</td></tr><tr><td><strong>conclusion in context</strong></td><td></td><td>與「結論」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>global approach</strong></td><td></td><td>與「全球的」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>invest a response</strong></td><td></td><td>與「投資」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>key component</strong></td><td></td><td>與「組成部分」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>key logic</strong></td><td></td><td>與「邏輯」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>mutual in daily communication</strong></td><td></td><td>與「相互的」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>ambitious in academic writing</strong></td><td></td><td>與「有企圖心的」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>available response</strong></td><td></td><td>與「可取得的」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>mode in context</strong></td><td></td><td>與「模式」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>highly considerable</strong></td><td></td><td>與「相當大的」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>ambitious</strong></td><td></td><td>有企圖心的</td><td>新詞</td></tr><tr><td><strong>highly mature</strong></td><td></td><td>與「成熟的」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>academic finance</strong></td><td></td><td>與「財務；金融」相關的常用片語</td><td>複習</td></tr><tr><td><strong>considerable in academic writing</strong></td><td></td><td>與「相當大的」相關的常用片語</td><td>複習</td></tr><tr><td><strong>mutual evidence</strong></td><td></td><td>與「相互的」相關的常用片語</td><td>複習</td></tr><tr><td><strong>introduce</strong></td><td>/ˌɪntrəˈduːs/</td><td>介紹；引進</td><td>複習</td></tr><tr><td><strong>feature development</strong></td><td></td><td>與「特色；特徵」相關的常用片語</td><td>複習</td></tr></table><hr><h2>文法重點</h2><p><strong>Using &#x27;The main reason is that...&#x27;</strong></p><p>當有多個理由時，用 The main reason is that 聚焦核心論點。</p><p><em>The main reason is that S + V.</em></p><p>The main reason is that structured review helps me retain academic vocabulary longer.</p><hr><h2>閱讀：Communication in Professional Settings</h2><p>In today&#x27;s global workplace, professionals must communicate clearly across cultures and time zones. Team members often collaborate on projects while managing demanding schedules, so precise language matters. Today&#x27;s vocabulary introduces expressions such as &#x27;dependency for writing&#x27;, &#x27;implication&#x27;, &#x27;negotiate&#x27;, and &#x27;conclusion in context&#x27;; each one can help learners explain work, travel, or cultural situations with more confidence. When presenting ideas, speakers should connect their message to relevant examples. It is also crucial to remain calm during discussions and respond to feedback constructively. Managers may negotiate deadlines or resources, so employees need flexible communication skills. A clear meeting agenda helps groups allocate time and stay focused on relevant priorities. Although challenges are inherent in international teams, shared goals can improve collaboration across departments. Expressions like &#x27;global approach&#x27;, &#x27;invest a response&#x27;, and &#x27;key component&#x27; are useful because they allow professionals to summarize decisions, ask follow-up questions, and reduce misunderstandings before a project moves forward. Companies that invest in language training frequently report smoother negotiations and stronger relationships with overseas partners. As a result, communication training is no longer optional for ambitious professionals in competitive industries.</p><p><strong>中文翻譯：</strong>在今日全球職場中，專業人士必須跨文化與跨時區清楚溝通。團隊成員常在管理繁忙行程的同時合作專案。報告想法時，說話者應以相關例子傳達訊息。討論中保持自信並建設性回應回饋也至關重要。主管可能協商截止日期或資源，因此員工需要有效的溝通技巧。清楚的會議議程有助團隊分配時間並保持專注。雖然國際團隊挑戰固有，共同目標能促進合作。因此，投資語言培訓的公司常見團隊合作與客戶關係的顯著改善。</p><hr><h2>跟讀練習（3 句）</h2><h3>第 1 句</h3><p><strong>In today&#x27;s global workplace, professionals must communicate clearly across cultures and time zones.</strong></p><p>發音提示：注意功能詞的連音與重音位置，先慢速再加速。</p><p>跟讀步驟：先聽一次，再逐句跟讀，最後不看文字朗讀。</p><h3>第 2 句</h3><p><strong>Team members often collaborate on projects while managing demanding schedules, so precise language matters.</strong></p><p>發音提示：留意 and、to、of 等虛詞的弱化發音。</p><p>跟讀步驟：先慢速跟讀兩遍，再加速至正常語速。</p><h3>第 3 句</h3><p><strong>Today&#x27;s vocabulary introduces expressions such as &#x27;dependency for writing&#x27;, &#x27;implication&#x27;, &#x27;negotiate&#x27;, and &#x27;conclusion in context&#x27;; each one can help learners explain work, travel, or cultural situations with more confidence.</strong></p><p>發音提示：句尾語調略下降，表示陳述句結束。</p><p>跟讀步驟：分段練習後，最後整句連貫朗讀一次。</p><hr><h2>TOEFL 技能訓練</h2><p>請依今日所學完成一題 TOEFL 導向練習，口說 45 秒或寫 3–4 句。</p><p><strong>題目：</strong>How would you use &#x27;dependency for writing&#x27; in a TOEFL speaking answer about Social Communication Skills?</p><p><strong>架構：</strong>I believe ___. One reason is that ___. For example, ___. As a result, ___.</p><p><strong>範例：</strong>I believe daily practice is essential. One reason is that it builds dependency for writing over time. For example, I review vocabulary every morning before work. As a result, I feel more prepared for academic tasks.</p><hr><h2>每日測驗（含答案）</h2><p><strong>Q1.</strong> Which definition best matches &#x27;dependency for writing&#x27;?</p><ul><li>A. 與「依賴」相關的常用片語</li><li>B. 含義</li><li>C. 協商</li><li>D. 與「結論」相關的常用片語</li></ul><p><strong>答案：A</strong> — 今日單字 dependency for writing 的解釋為「與「依賴」相關的常用片語」。</p><p><strong>Q2.</strong> What is the main idea of today&#x27;s reading?</p><ul><li>A. Effective learning requires consistent, structured practice.</li><li>B. Cramming once a week is the best method.</li><li>C. Vocabulary lists alone guarantee a high score.</li><li>D. Test preparation should avoid speaking practice.</li></ul><p><strong>答案：A</strong> — 文章強調有限時間下，持續且結構化的練習才能帶來進步。</p><p><strong>Q3.</strong> Which sentence uses today&#x27;s grammar pattern correctly?</p><ul><li>A. I like English. Because it is useful.</li><li>B. In my opinion, practice helps. One reason is that it builds fluency.</li><li>C. Practice good and fun.</li><li>D. English hard but I try.</li></ul><p><strong>答案：B</strong> — 選項 B 正確運用 In my opinion... One reason is that... 句型。</p><hr><p><em>祝學習順利！明日 09:00 將寄送下一課。</em></p>"
+  }
+}

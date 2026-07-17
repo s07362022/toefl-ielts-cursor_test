@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T01:53:16.028657+00:00",
-  "current_day": 5,
+  "updated_at": "2026-07-17T01:00:02.368335+00:00",
+  "current_day": 6,
   "days": [
     {
       "day": 1,
@@ -46,6 +46,15 @@
       "level": "B1+",
       "estimated_minutes": 20,
       "file": "day_005.json"
+    },
+    {
+      "day": 6,
+      "theme": "Social Communication Skills",
+      "date_label": "7/17",
+      "phase": "Foundation",
+      "level": "B1+",
+      "estimated_minutes": 15,
+      "file": "day_006.json"
     }
   ]
 }
