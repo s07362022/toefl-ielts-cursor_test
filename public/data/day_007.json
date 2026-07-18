@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "day": 7,
+    "date_label": "7/18",
+    "phase": "Foundation",
+    "level": "B1+",
+    "estimated_minutes": 16,
+    "exam_focus": [
+      "TOEFL",
+      "IELTS",
+      "Daily Speaking"
+    ],
+    "theme": "Education and Lifelong Learning",
+    "weekday_plan": "Review quiz + weakness diagnosis"
+  },
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "invest in context",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「投資」相關的常用片語",
+      "example": "The phrase 'invest in context' is useful when discussing study, work, or academic topics.",
+      "collocation": "invest in context",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 2,
+      "word": "competence for writing",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「能力；勝任度」相關的常用片語",
+      "example": "The phrase 'competence for writing' is useful when discussing study, work, or academic topics.",
+      "collocation": "competence for writing",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 3,
+      "word": "framework",
+      "type": "n.",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "架構",
+      "example": "The phrase 'framework' is useful when discussing study, work, or academic topics.",
+      "collocation": "framework",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 4,
+      "word": "appropriate evidence",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「適當的」相關的常用片語",
+      "example": "The phrase 'appropriate evidence' is useful when discussing study, work, or academic topics.",
+      "collocation": "appropriate evidence",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 5,
+      "word": "duration",
+      "type": "n.",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "持續時間",
+      "example": "The phrase 'duration' is useful when discussing study, work, or academic topics.",
+      "collocation": "duration",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 6,
+      "word": "detect effectively",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "TOEFL",
+      "status": "new",
+      "definition_tw": "與「偵測；察覺」相關的常用片語",
+      "example": "The phrase 'detect effectively' is useful when discussing study, work, or academic topics.",
+      "collocation": "detect effectively",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 7,
+      "word": "highlight effectively",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「強調；亮點」相關的常用片語",
+      "example": "The phrase 'highlight effectively' is useful when discussing study, work, or academic topics.",
+      "collocation": "highlight effectively",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 8,
+      "word": "detect evidence",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "TOEFL",
+      "status": "new",
+      "definition_tw": "與「偵測；察覺」相關的常用片語",
+      "example": "The phrase 'detect evidence' is useful when discussing study, work, or academic topics.",
+      "collocation": "detect evidence",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 9,
+      "word": "potential",
+      "type": "n./adj.",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "潛力；潛在的",
+      "example": "The phrase 'potential' is useful when discussing study, work, or academic topics.",
+      "collocation": "potential",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 10,
+      "word": "ambitious approach",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「有企圖心的」相關的常用片語",
+      "example": "The phrase 'ambitious approach' is useful when discussing study, work, or academic topics.",
+      "collocation": "ambitious approach",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 11,
+      "word": "economy",
+      "type": "n.",
+      "phonetic_us": "",
+      "category": "IELTS",
+      "status": "new",
+      "definition_tw": "經濟",
+      "example": "The phrase 'economy' is useful when discussing study, work, or academic topics.",
+      "collocation": "economy",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 12,
+      "word": "enable a passage",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「使能夠」相關的常用片語",
+      "example": "The phrase 'enable a passage' is useful when discussing study, work, or academic topics.",
+      "collocation": "enable a passage",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 13,
+      "word": "internal evidence",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「內部的」相關的常用片語",
+      "example": "The phrase 'internal evidence' is useful when discussing study, work, or academic topics.",
+      "collocation": "internal evidence",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 14,
+      "word": "mature approach",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「成熟的」相關的常用片語",
+      "example": "The phrase 'mature approach' is useful when discussing study, work, or academic topics.",
+      "collocation": "mature approach",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 15,
+      "word": "engage a response",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「參與；吸引」相關的常用片語",
+      "example": "The phrase 'engage a response' is useful when discussing study, work, or academic topics.",
+      "collocation": "engage a response",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 16,
+      "word": "interaction strategy",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "review",
+      "definition_tw": "與「互動」相關的常用片語",
+      "example": "The phrase 'interaction strategy' is useful when discussing study, work, or academic topics.",
+      "collocation": "interaction strategy",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 17,
+      "word": "insight development",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "review",
+      "definition_tw": "與「洞察」相關的常用片語",
+      "example": "The phrase 'insight development' is useful when discussing study, work, or academic topics.",
+      "collocation": "insight development",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 18,
+      "word": "consume a response",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "IELTS",
+      "status": "review",
+      "definition_tw": "與「消耗；消費」相關的常用片語",
+      "example": "The phrase 'consume a response' is useful when discussing study, work, or academic topics.",
+      "collocation": "consume a response",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 19,
+      "word": "transition",
+      "type": "n.",
+      "phonetic_us": "/trænˈzɪʃən/",
+      "category": "Academic",
+      "status": "review",
+      "definition_tw": "轉換；過渡",
+      "example": "Use transition phrases to connect ideas in academic writing.",
+      "collocation": "smooth transition; career transition",
+      "usage_note_tw": "寫作連接與口說流暢度。"
+    },
+    {
+      "id": 20,
+      "word": "highly mature",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "review",
+      "definition_tw": "與「成熟的」相關的常用片語",
+      "example": "The phrase 'highly mature' is useful when discussing study, work, or academic topics.",
+      "collocation": "highly mature",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    }
+  ],
+  "grammar_focus": {
+    "title": "Using 'From my perspective,...'",
+    "function": "表達個人觀點（學術討論）。",
+    "explanation_tw": "學術討論寫作常用，比 I think 更正式。",
+    "pattern": "From my perspective, S + V.",
+    "example_basic": "From my perspective, consistency matters more than intensity.",
+    "example_advanced": "From my perspective, learners should prioritize high-frequency academic words before rare terminology."
+  },
+  "reading": {
+    "title": "Education",
+    "text": "Many adult learners face a common challenge when preparing for international exams: limited time. To address this, they need a practical system that fits a busy schedule and supports steady review. Today's vocabulary includes terms such as 'invest in context', 'competence for writing', 'framework', and 'appropriate evidence', which can help learners talk about study habits more precisely. One effective method is to combine short reading passages with daily speaking practice. This routine does not require hours of study, but it does require consistency and clear priorities. Learners who review new material regularly often retain information better than those who cram once a week. Teachers frequently point out that active practice is more valuable than passive review. With useful phrases like 'duration', 'detect effectively', and 'highlight effectively', students can make stronger connections across reading, listening, speaking, and writing. In addition, learners should record short answers to build fluency and receive feedback from teachers or language partners. A well-designed routine makes it easier to maintain motivation when work and family responsibilities compete for attention. Over several weeks, small actions can produce noticeable improvement in confidence and accuracy on both TOEFL and IELTS tasks.",
+    "embedded_words": [
+      "invest in context",
+      "competence for writing",
+      "framework",
+      "appropriate evidence",
+      "duration",
+      "detect effectively"
+    ],
+    "translation_tw": "許多成年學習者在準備國際考試時面臨共同挑戰：時間有限。為此，他們需要一個適合忙碌行程的實用方法。一種有效方法是結合短篇閱讀與每日口說練習。這個過程不需要長時間學習，但需要持續性。經常複習新材料的學習者往往比每週死背一次的人更能保留資訊。教師常強調主動練習比被動複習更有價值。有了清楚策略與務實目標，學生能在四項技能上穩定進步。幾週下來，小行動能帶來自信與準確度的顯著提升。"
+  },
+  "listening_speaking": [
+    {
+      "id": 1,
+      "sentence": "Many adult learners face a common challenge when preparing for international exams: limited time.",
+      "pronunciation_tips_tw": "注意功能詞的連音與重音位置，先慢速再加速。",
+      "shadowing_steps_tw": "先聽一次，再逐句跟讀，最後不看文字朗讀。",
+      "focus": "linking"
+    },
+    {
+      "id": 2,
+      "sentence": "To address this, they need a practical system that fits a busy schedule and supports steady review.",
+      "pronunciation_tips_tw": "留意 and、to、of 等虛詞的弱化發音。",
+      "shadowing_steps_tw": "先慢速跟讀兩遍，再加速至正常語速。",
+      "focus": "reduction"
+    },
+    {
+      "id": 3,
+      "sentence": "Today's vocabulary includes terms such as 'invest in context', 'competence for writing', 'framework', and 'appropriate evidence', which can help learners talk about study habits more precisely.",
+      "pronunciation_tips_tw": "句尾語調略下降，表示陳述句結束。",
+      "shadowing_steps_tw": "分段練習後，最後整句連貫朗讀一次。",
+      "focus": "intonation"
+    }
+  ],
+  "toefl_skill_drill": {
+    "skill_type": "reading_inference",
+    "instruction_tw": "請依今日所學完成一題 TOEFL 導向練習，口說 45 秒或寫 3–4 句。",
+    "prompt": "What can be inferred about effective exam preparation from the passage?",
+    "response_framework": "I believe ___. One reason is that ___. For example, ___. As a result, ___.",
+    "sample_answer": "I believe daily practice is essential. One reason is that it builds invest in context over time. For example, I review vocabulary every morning before work. As a result, I feel more prepared for academic tasks.",
+    "useful_phrases": [
+      "invest in context",
+      "competence for writing",
+      "framework"
+    ]
+  },
+  "daily_quiz": [
+    {
+      "question_id": 1,
+      "question": "Which definition best matches 'invest in context'?",
+      "options": [
+        "A. 與「投資」相關的常用片語",
+        "B. 與「能力",
+        "C. 架構",
+        "D. 與「適當的」相關的常用片語"
+      ],
+      "answer": "A",
+      "explanation_tw": "今日單字 invest in context 的解釋為「與「投資」相關的常用片語」。"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the main idea of today's reading?",
+      "options": [
+        "A. Effective learning requires consistent, structured practice.",
+        "B. Cramming once a week is the best method.",
+        "C. Vocabulary lists alone guarantee a high score.",
+        "D. Test preparation should avoid speaking practice."
+      ],
+      "answer": "A",
+      "explanation_tw": "文章強調有限時間下，持續且結構化的練習才能帶來進步。"
+    },
+    {
+      "question_id": 3,
+      "question": "Which sentence uses today's grammar pattern correctly?",
+      "options": [
+        "A. I like English. Because it is useful.",
+        "B. In my opinion, practice helps. One reason is that it builds fluency.",
+        "C. Practice good and fun.",
+        "D. English hard but I try."
+      ],
+      "answer": "B",
+      "explanation_tw": "選項 B 正確運用 In my opinion... One reason is that... 句型。"
+    }
+  ],
+  "history_update": {
+    "new_words_today": [
+      "invest in context",
+      "competence for writing",
+      "framework",
+      "appropriate evidence",
+      "duration",
+      "detect effectively",
+      "highlight effectively",
+      "detect evidence",
+      "potential",
+      "ambitious approach",
+      "economy",
+      "enable a passage",
+      "internal evidence",
+      "mature approach",
+      "engage a response"
+    ],
+    "review_words_today": [
+      "interaction strategy",
+      "insight development",
+      "consume a response",
+      "transition",
+      "highly mature"
+    ],
+    "grammar_today": "Using 'From my perspective,...'",
+    "theme_today": "Education and Lifelong Learning",
+    "skill_type_today": "reading_inference"
+  },
+  "gmail_email": {
+    "recipient": "s07362022@gmail.com",
+    "subject": "Day 7 英文學習｜Education and Lifelong Learning",
+    "html_body": "<h1>Day 7 英文學習</h1><p><strong>今日主題：</strong>Education and Lifelong Learning</p><p><strong>階段：</strong>Foundation · <strong>程度：</strong>B1+ · <strong>預估：</strong>16 分鐘</p><p><strong>今日訓練：</strong>Review quiz + weakness diagnosis</p><hr><h2>今日單字</h2><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%'><tr><th>單字</th><th>音標</th><th>解釋</th><th>狀態</th></tr><tr><td><strong>invest in context</strong></td><td></td><td>與「投資」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>competence for writing</strong></td><td></td><td>與「能力；勝任度」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>framework</strong></td><td></td><td>架構</td><td>新詞</td></tr><tr><td><strong>appropriate evidence</strong></td><td></td><td>與「適當的」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>duration</strong></td><td></td><td>持續時間</td><td>新詞</td></tr><tr><td><strong>detect effectively</strong></td><td></td><td>與「偵測；察覺」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>highlight effectively</strong></td><td></td><td>與「強調；亮點」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>detect evidence</strong></td><td></td><td>與「偵測；察覺」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>potential</strong></td><td></td><td>潛力；潛在的</td><td>新詞</td></tr><tr><td><strong>ambitious approach</strong></td><td></td><td>與「有企圖心的」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>economy</strong></td><td></td><td>經濟</td><td>新詞</td></tr><tr><td><strong>enable a passage</strong></td><td></td><td>與「使能夠」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>internal evidence</strong></td><td></td><td>與「內部的」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>mature approach</strong></td><td></td><td>與「成熟的」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>engage a response</strong></td><td></td><td>與「參與；吸引」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>interaction strategy</strong></td><td></td><td>與「互動」相關的常用片語</td><td>複習</td></tr><tr><td><strong>insight development</strong></td><td></td><td>與「洞察」相關的常用片語</td><td>複習</td></tr><tr><td><strong>consume a response</strong></td><td></td><td>與「消耗；消費」相關的常用片語</td><td>複習</td></tr><tr><td><strong>transition</strong></td><td>/trænˈzɪʃən/</td><td>轉換；過渡</td><td>複習</td></tr><tr><td><strong>highly mature</strong></td><td></td><td>與「成熟的」相關的常用片語</td><td>複習</td></tr></table><hr><h2>文法重點</h2><p><strong>Using &#x27;From my perspective,...&#x27;</strong></p><p>學術討論寫作常用，比 I think 更正式。</p><p><em>From my perspective, S + V.</em></p><p>From my perspective, learners should prioritize high-frequency academic words before rare terminology.</p><hr><h2>閱讀：Education</h2><p>Many adult learners face a common challenge when preparing for international exams: limited time. To address this, they need a practical system that fits a busy schedule and supports steady review. Today&#x27;s vocabulary includes terms such as &#x27;invest in context&#x27;, &#x27;competence for writing&#x27;, &#x27;framework&#x27;, and &#x27;appropriate evidence&#x27;, which can help learners talk about study habits more precisely. One effective method is to combine short reading passages with daily speaking practice. This routine does not require hours of study, but it does require consistency and clear priorities. Learners who review new material regularly often retain information better than those who cram once a week. Teachers frequently point out that active practice is more valuable than passive review. With useful phrases like &#x27;duration&#x27;, &#x27;detect effectively&#x27;, and &#x27;highlight effectively&#x27;, students can make stronger connections across reading, listening, speaking, and writing. In addition, learners should record short answers to build fluency and receive feedback from teachers or language partners. A well-designed routine makes it easier to maintain motivation when work and family responsibilities compete for attention. Over several weeks, small actions can produce noticeable improvement in confidence and accuracy on both TOEFL and IELTS tasks.</p><p><strong>中文翻譯：</strong>許多成年學習者在準備國際考試時面臨共同挑戰：時間有限。為此，他們需要一個適合忙碌行程的實用方法。一種有效方法是結合短篇閱讀與每日口說練習。這個過程不需要長時間學習，但需要持續性。經常複習新材料的學習者往往比每週死背一次的人更能保留資訊。教師常強調主動練習比被動複習更有價值。有了清楚策略與務實目標，學生能在四項技能上穩定進步。幾週下來，小行動能帶來自信與準確度的顯著提升。</p><hr><h2>跟讀練習（3 句）</h2><h3>第 1 句</h3><p><strong>Many adult learners face a common challenge when preparing for international exams: limited time.</strong></p><p>發音提示：注意功能詞的連音與重音位置，先慢速再加速。</p><p>跟讀步驟：先聽一次，再逐句跟讀，最後不看文字朗讀。</p><h3>第 2 句</h3><p><strong>To address this, they need a practical system that fits a busy schedule and supports steady review.</strong></p><p>發音提示：留意 and、to、of 等虛詞的弱化發音。</p><p>跟讀步驟：先慢速跟讀兩遍，再加速至正常語速。</p><h3>第 3 句</h3><p><strong>Today&#x27;s vocabulary includes terms such as &#x27;invest in context&#x27;, &#x27;competence for writing&#x27;, &#x27;framework&#x27;, and &#x27;appropriate evidence&#x27;, which can help learners talk about study habits more precisely.</strong></p><p>發音提示：句尾語調略下降，表示陳述句結束。</p><p>跟讀步驟：分段練習後，最後整句連貫朗讀一次。</p><hr><h2>TOEFL 技能訓練</h2><p>請依今日所學完成一題 TOEFL 導向練習，口說 45 秒或寫 3–4 句。</p><p><strong>題目：</strong>What can be inferred about effective exam preparation from the passage?</p><p><strong>架構：</strong>I believe ___. One reason is that ___. For example, ___. As a result, ___.</p><p><strong>範例：</strong>I believe daily practice is essential. One reason is that it builds invest in context over time. For example, I review vocabulary every morning before work. As a result, I feel more prepared for academic tasks.</p><hr><h2>每日測驗（含答案）</h2><p><strong>Q1.</strong> Which definition best matches &#x27;invest in context&#x27;?</p><ul><li>A. 與「投資」相關的常用片語</li><li>B. 與「能力</li><li>C. 架構</li><li>D. 與「適當的」相關的常用片語</li></ul><p><strong>答案：A</strong> — 今日單字 invest in context 的解釋為「與「投資」相關的常用片語」。</p><p><strong>Q2.</strong> What is the main idea of today&#x27;s reading?</p><ul><li>A. Effective learning requires consistent, structured practice.</li><li>B. Cramming once a week is the best method.</li><li>C. Vocabulary lists alone guarantee a high score.</li><li>D. Test preparation should avoid speaking practice.</li></ul><p><strong>答案：A</strong> — 文章強調有限時間下，持續且結構化的練習才能帶來進步。</p><p><strong>Q3.</strong> Which sentence uses today&#x27;s grammar pattern correctly?</p><ul><li>A. I like English. Because it is useful.</li><li>B. In my opinion, practice helps. One reason is that it builds fluency.</li><li>C. Practice good and fun.</li><li>D. English hard but I try.</li></ul><p><strong>答案：B</strong> — 選項 B 正確運用 In my opinion... One reason is that... 句型。</p><hr><p><em>祝學習順利！明日 09:00 將寄送下一課。</em></p>"
+  }
+}

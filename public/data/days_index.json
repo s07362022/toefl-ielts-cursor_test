@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T01:00:02.368335+00:00",
-  "current_day": 6,
+  "updated_at": "2026-07-18T01:00:02.359271+00:00",
+  "current_day": 7,
   "days": [
     {
       "day": 1,
@@ -55,6 +55,15 @@
       "level": "B1+",
       "estimated_minutes": 15,
       "file": "day_006.json"
+    },
+    {
+      "day": 7,
+      "theme": "Education and Lifelong Learning",
+      "date_label": "7/18",
+      "phase": "Foundation",
+      "level": "B1+",
+      "estimated_minutes": 16,
+      "file": "day_007.json"
     }
   ]
 }
