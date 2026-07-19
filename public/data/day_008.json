@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "day": 8,
+    "date_label": "7/19",
+    "phase": "Foundation",
+    "level": "B1+",
+    "estimated_minutes": 17,
+    "exam_focus": [
+      "TOEFL",
+      "IELTS",
+      "Daily Speaking"
+    ],
+    "theme": "Career Development and Networking",
+    "weekday_plan": "Reading - vocabulary in context / inference / main idea"
+  },
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "ignore a response",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Daily",
+      "status": "new",
+      "definition_tw": "與「忽略」相關的常用片語",
+      "example": "The phrase 'ignore a response' is useful when discussing study, work, or academic topics.",
+      "collocation": "ignore a response",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 2,
+      "word": "transform",
+      "type": "v.",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "轉變",
+      "example": "The phrase 'transform' is useful when discussing study, work, or academic topics.",
+      "collocation": "transform",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 3,
+      "word": "industry and examples",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「產業」相關的常用片語",
+      "example": "The phrase 'industry and examples' is useful when discussing study, work, or academic topics.",
+      "collocation": "industry and examples",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 4,
+      "word": "insight",
+      "type": "n.",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "洞察",
+      "example": "The phrase 'insight' is useful when discussing study, work, or academic topics.",
+      "collocation": "insight",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 5,
+      "word": "attitude strategy",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "TOEFL",
+      "status": "new",
+      "definition_tw": "與「態度」相關的常用片語",
+      "example": "The phrase 'attitude strategy' is useful when discussing study, work, or academic topics.",
+      "collocation": "attitude strategy",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 6,
+      "word": "exposure and examples",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "TOEFL",
+      "status": "new",
+      "definition_tw": "與「接觸；暴露」相關的常用片語",
+      "example": "The phrase 'exposure and examples' is useful when discussing study, work, or academic topics.",
+      "collocation": "exposure and examples",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 7,
+      "word": "highly available",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Daily",
+      "status": "new",
+      "definition_tw": "與「可取得的」相關的常用片語",
+      "example": "The phrase 'highly available' is useful when discussing study, work, or academic topics.",
+      "collocation": "highly available",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 8,
+      "word": "characteristic and examples",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「特徵」相關的常用片語",
+      "example": "The phrase 'characteristic and examples' is useful when discussing study, work, or academic topics.",
+      "collocation": "characteristic and examples",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 9,
+      "word": "equivalent in academic writing",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「相等的；等同物」相關的常用片語",
+      "example": "The phrase 'equivalent in academic writing' is useful when discussing study, work, or academic topics.",
+      "collocation": "equivalent in academic writing",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 10,
+      "word": "circumstance development",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「情況」相關的常用片語",
+      "example": "The phrase 'circumstance development' is useful when discussing study, work, or academic topics.",
+      "collocation": "circumstance development",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 11,
+      "word": "mode development",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「模式」相關的常用片語",
+      "example": "The phrase 'mode development' is useful when discussing study, work, or academic topics.",
+      "collocation": "mode development",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 12,
+      "word": "analyze",
+      "type": "v.",
+      "phonetic_us": "/ˈænəlaɪz/",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "分析",
+      "example": "Students must analyze the main argument before writing a response.",
+      "collocation": "analyze data; analyze a passage",
+      "usage_note_tw": "學術寫作與閱讀高頻動詞。"
+    },
+    {
+      "id": 13,
+      "word": "engage evidence",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「參與；吸引」相關的常用片語",
+      "example": "The phrase 'engage evidence' is useful when discussing study, work, or academic topics.",
+      "collocation": "engage evidence",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 14,
+      "word": "adapt information",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "new",
+      "definition_tw": "與「適應；調整」相關的常用片語",
+      "example": "The phrase 'adapt information' is useful when discussing study, work, or academic topics.",
+      "collocation": "adapt information",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 15,
+      "word": "key expectation",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "new",
+      "definition_tw": "與「期待」相關的常用片語",
+      "example": "The phrase 'key expectation' is useful when discussing study, work, or academic topics.",
+      "collocation": "key expectation",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 16,
+      "word": "conventional in daily communication",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "review",
+      "definition_tw": "與「傳統的」相關的常用片語",
+      "example": "The phrase 'conventional in daily communication' is useful when discussing study, work, or academic topics.",
+      "collocation": "conventional in daily communication",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 17,
+      "word": "key mechanism",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "TOEFL",
+      "status": "review",
+      "definition_tw": "與「機制」相關的常用片語",
+      "example": "The phrase 'key mechanism' is useful when discussing study, work, or academic topics.",
+      "collocation": "key mechanism",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 18,
+      "word": "framework",
+      "type": "n.",
+      "phonetic_us": "",
+      "category": "Academic",
+      "status": "review",
+      "definition_tw": "架構",
+      "example": "The phrase 'framework' is useful when discussing study, work, or academic topics.",
+      "collocation": "framework",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    },
+    {
+      "id": 19,
+      "word": "retain",
+      "type": "v.",
+      "phonetic_us": "/rɪˈteɪn/",
+      "category": "TOEFL",
+      "status": "review",
+      "definition_tw": "保留；記住",
+      "example": "Spaced review helps learners retain vocabulary longer.",
+      "collocation": "retain information; retain employees",
+      "usage_note_tw": "學習與記憶語境常用。"
+    },
+    {
+      "id": 20,
+      "word": "highlight effectively",
+      "type": "phrase",
+      "phonetic_us": "",
+      "category": "Business",
+      "status": "review",
+      "definition_tw": "與「強調；亮點」相關的常用片語",
+      "example": "The phrase 'highlight effectively' is useful when discussing study, work, or academic topics.",
+      "collocation": "highlight effectively",
+      "usage_note_tw": "此項目作為 TOEFL/IELTS 與日常商務表達的可抽取詞彙或片語。"
+    }
+  ],
+  "grammar_focus": {
+    "title": "Using 'One reason is that...' to Extend an Answer",
+    "function": "延展 TOEFL independent speaking 理由。",
+    "explanation_tw": "表達意見後用 One reason is that... 加上具體原因，避免回答太短。",
+    "pattern": "In my opinion, S + V. One reason is that S + V.",
+    "example_basic": "In my opinion, online learning is useful. One reason is that it is flexible.",
+    "example_advanced": "In my opinion, online learning is highly practical. One reason is that it allows busy adults to review lessons at their own pace."
+  },
+  "reading": {
+    "title": "Academic Skills for Test Success",
+    "text": "Success on TOEFL and IELTS depends on more than memorizing word lists. Students must learn to understand passages, identify key ideas in context, and draw reasonable conclusions from incomplete information. Today's lesson highlights language such as 'ignore a response', 'transform', 'industry and examples', and 'insight', because these terms often appear in academic reading, lectures, or discussion prompts. In listening tasks, recognizing signal words helps learners interpret the speaker's attitude and purpose. When writing academic responses, it is important to present a clear position and support it with evidence. Many instructors recommend combining input and output activities because the two reinforce each other. A structured review plan ensures that difficult topics receive enough attention before exam day. From phrases like 'attitude strategy', 'exposure and examples', and 'highly available', learners can extract patterns they can reuse in speaking and writing. Candidates who practice under timed conditions become more comfortable with the pace of real exams. They also learn to prioritize high-value tasks such as summarizing main ideas and organizing supporting details. This balanced approach helps candidates move toward their target score without unnecessary stress or last-minute cramming.",
+    "embedded_words": [
+      "ignore a response",
+      "transform",
+      "industry and examples",
+      "insight",
+      "attitude strategy",
+      "exposure and examples"
+    ],
+    "translation_tw": "TOEFL 與 IELTS 的成功不只靠背單字。學生必須學會分析文章、在上下文中辨識關鍵概念，並從不完整資訊中做出合理推論。聽力任務中，辨識訊號詞有助於詮釋說話者態度。學術寫作回應時，清楚表明立場並以證據支持很重要。許多教師提倡結合輸入與輸出活動，因兩者相輔相成。全面的複習計畫確保困難主題在考試前獲得足夠關注。從每個觀點中，學習者應萃取可重複用於口說與寫作的實用片語。這種平衡策略幫助考生達成目標分數而不必過度焦慮。"
+  },
+  "listening_speaking": [
+    {
+      "id": 1,
+      "sentence": "Success on TOEFL and IELTS depends on more than memorizing word lists.",
+      "pronunciation_tips_tw": "注意功能詞的連音與重音位置，先慢速再加速。",
+      "shadowing_steps_tw": "先聽一次，再逐句跟讀，最後不看文字朗讀。",
+      "focus": "linking"
+    },
+    {
+      "id": 2,
+      "sentence": "Students must learn to understand passages, identify key ideas in context, and draw reasonable conclusions from incomplete information.",
+      "pronunciation_tips_tw": "留意 and、to、of 等虛詞的弱化發音。",
+      "shadowing_steps_tw": "先慢速跟讀兩遍，再加速至正常語速。",
+      "focus": "reduction"
+    },
+    {
+      "id": 3,
+      "sentence": "Today's lesson highlights language such as 'ignore a response', 'transform', 'industry and examples', and 'insight', because these terms often appear in academic reading, lectures, or discussion prompts.",
+      "pronunciation_tips_tw": "句尾語調略下降，表示陳述句結束。",
+      "shadowing_steps_tw": "分段練習後，最後整句連貫朗讀一次。",
+      "focus": "intonation"
+    }
+  ],
+  "toefl_skill_drill": {
+    "skill_type": "listening_note_taking",
+    "instruction_tw": "請依今日所學完成一題 TOEFL 導向練習，口說 45 秒或寫 3–4 句。",
+    "prompt": "What are two key points you would write in your notes about today's topic?",
+    "response_framework": "I believe ___. One reason is that ___. For example, ___. As a result, ___.",
+    "sample_answer": "I believe daily practice is essential. One reason is that it builds ignore a response over time. For example, I review vocabulary every morning before work. As a result, I feel more prepared for academic tasks.",
+    "useful_phrases": [
+      "ignore a response",
+      "transform",
+      "industry and examples"
+    ]
+  },
+  "daily_quiz": [
+    {
+      "question_id": 1,
+      "question": "Which definition best matches 'ignore a response'?",
+      "options": [
+        "A. 與「忽略」相關的常用片語",
+        "B. 轉變",
+        "C. 與「產業」相關的常用片語",
+        "D. 洞察"
+      ],
+      "answer": "A",
+      "explanation_tw": "今日單字 ignore a response 的解釋為「與「忽略」相關的常用片語」。"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the main idea of today's reading?",
+      "options": [
+        "A. Effective learning requires consistent, structured practice.",
+        "B. Cramming once a week is the best method.",
+        "C. Vocabulary lists alone guarantee a high score.",
+        "D. Test preparation should avoid speaking practice."
+      ],
+      "answer": "A",
+      "explanation_tw": "文章強調有限時間下，持續且結構化的練習才能帶來進步。"
+    },
+    {
+      "question_id": 3,
+      "question": "Which sentence uses today's grammar pattern correctly?",
+      "options": [
+        "A. I like English. Because it is useful.",
+        "B. In my opinion, practice helps. One reason is that it builds fluency.",
+        "C. Practice good and fun.",
+        "D. English hard but I try."
+      ],
+      "answer": "B",
+      "explanation_tw": "選項 B 正確運用 In my opinion... One reason is that... 句型。"
+    }
+  ],
+  "history_update": {
+    "new_words_today": [
+      "ignore a response",
+      "transform",
+      "industry and examples",
+      "insight",
+      "attitude strategy",
+      "exposure and examples",
+      "highly available",
+      "characteristic and examples",
+      "equivalent in academic writing",
+      "circumstance development",
+      "mode development",
+      "analyze",
+      "engage evidence",
+      "adapt information",
+      "key expectation"
+    ],
+    "review_words_today": [
+      "conventional in daily communication",
+      "key mechanism",
+      "framework",
+      "retain",
+      "highlight effectively"
+    ],
+    "grammar_today": "Using 'One reason is that...' to Extend an Answer",
+    "theme_today": "Career Development and Networking",
+    "skill_type_today": "listening_note_taking"
+  },
+  "gmail_email": {
+    "recipient": "s07362022@gmail.com",
+    "subject": "Day 8 英文學習｜Career Development and Networking",
+    "html_body": "<h1>Day 8 英文學習</h1><p><strong>今日主題：</strong>Career Development and Networking</p><p><strong>階段：</strong>Foundation · <strong>程度：</strong>B1+ · <strong>預估：</strong>17 分鐘</p><p><strong>今日訓練：</strong>Reading - vocabulary in context / inference / main idea</p><hr><h2>今日單字</h2><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%'><tr><th>單字</th><th>音標</th><th>解釋</th><th>狀態</th></tr><tr><td><strong>ignore a response</strong></td><td></td><td>與「忽略」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>transform</strong></td><td></td><td>轉變</td><td>新詞</td></tr><tr><td><strong>industry and examples</strong></td><td></td><td>與「產業」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>insight</strong></td><td></td><td>洞察</td><td>新詞</td></tr><tr><td><strong>attitude strategy</strong></td><td></td><td>與「態度」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>exposure and examples</strong></td><td></td><td>與「接觸；暴露」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>highly available</strong></td><td></td><td>與「可取得的」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>characteristic and examples</strong></td><td></td><td>與「特徵」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>equivalent in academic writing</strong></td><td></td><td>與「相等的；等同物」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>circumstance development</strong></td><td></td><td>與「情況」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>mode development</strong></td><td></td><td>與「模式」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>analyze</strong></td><td>/ˈænəlaɪz/</td><td>分析</td><td>新詞</td></tr><tr><td><strong>engage evidence</strong></td><td></td><td>與「參與；吸引」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>adapt information</strong></td><td></td><td>與「適應；調整」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>key expectation</strong></td><td></td><td>與「期待」相關的常用片語</td><td>新詞</td></tr><tr><td><strong>conventional in daily communication</strong></td><td></td><td>與「傳統的」相關的常用片語</td><td>複習</td></tr><tr><td><strong>key mechanism</strong></td><td></td><td>與「機制」相關的常用片語</td><td>複習</td></tr><tr><td><strong>framework</strong></td><td></td><td>架構</td><td>複習</td></tr><tr><td><strong>retain</strong></td><td>/rɪˈteɪn/</td><td>保留；記住</td><td>複習</td></tr><tr><td><strong>highlight effectively</strong></td><td></td><td>與「強調；亮點」相關的常用片語</td><td>複習</td></tr></table><hr><h2>文法重點</h2><p><strong>Using &#x27;One reason is that...&#x27; to Extend an Answer</strong></p><p>表達意見後用 One reason is that... 加上具體原因，避免回答太短。</p><p><em>In my opinion, S + V. One reason is that S + V.</em></p><p>In my opinion, online learning is highly practical. One reason is that it allows busy adults to review lessons at their own pace.</p><hr><h2>閱讀：Academic Skills for Test Success</h2><p>Success on TOEFL and IELTS depends on more than memorizing word lists. Students must learn to understand passages, identify key ideas in context, and draw reasonable conclusions from incomplete information. Today&#x27;s lesson highlights language such as &#x27;ignore a response&#x27;, &#x27;transform&#x27;, &#x27;industry and examples&#x27;, and &#x27;insight&#x27;, because these terms often appear in academic reading, lectures, or discussion prompts. In listening tasks, recognizing signal words helps learners interpret the speaker&#x27;s attitude and purpose. When writing academic responses, it is important to present a clear position and support it with evidence. Many instructors recommend combining input and output activities because the two reinforce each other. A structured review plan ensures that difficult topics receive enough attention before exam day. From phrases like &#x27;attitude strategy&#x27;, &#x27;exposure and examples&#x27;, and &#x27;highly available&#x27;, learners can extract patterns they can reuse in speaking and writing. Candidates who practice under timed conditions become more comfortable with the pace of real exams. They also learn to prioritize high-value tasks such as summarizing main ideas and organizing supporting details. This balanced approach helps candidates move toward their target score without unnecessary stress or last-minute cramming.</p><p><strong>中文翻譯：</strong>TOEFL 與 IELTS 的成功不只靠背單字。學生必須學會分析文章、在上下文中辨識關鍵概念，並從不完整資訊中做出合理推論。聽力任務中，辨識訊號詞有助於詮釋說話者態度。學術寫作回應時，清楚表明立場並以證據支持很重要。許多教師提倡結合輸入與輸出活動，因兩者相輔相成。全面的複習計畫確保困難主題在考試前獲得足夠關注。從每個觀點中，學習者應萃取可重複用於口說與寫作的實用片語。這種平衡策略幫助考生達成目標分數而不必過度焦慮。</p><hr><h2>跟讀練習（3 句）</h2><h3>第 1 句</h3><p><strong>Success on TOEFL and IELTS depends on more than memorizing word lists.</strong></p><p>發音提示：注意功能詞的連音與重音位置，先慢速再加速。</p><p>跟讀步驟：先聽一次，再逐句跟讀，最後不看文字朗讀。</p><h3>第 2 句</h3><p><strong>Students must learn to understand passages, identify key ideas in context, and draw reasonable conclusions from incomplete information.</strong></p><p>發音提示：留意 and、to、of 等虛詞的弱化發音。</p><p>跟讀步驟：先慢速跟讀兩遍，再加速至正常語速。</p><h3>第 3 句</h3><p><strong>Today&#x27;s lesson highlights language such as &#x27;ignore a response&#x27;, &#x27;transform&#x27;, &#x27;industry and examples&#x27;, and &#x27;insight&#x27;, because these terms often appear in academic reading, lectures, or discussion prompts.</strong></p><p>發音提示：句尾語調略下降，表示陳述句結束。</p><p>跟讀步驟：分段練習後，最後整句連貫朗讀一次。</p><hr><h2>TOEFL 技能訓練</h2><p>請依今日所學完成一題 TOEFL 導向練習，口說 45 秒或寫 3–4 句。</p><p><strong>題目：</strong>What are two key points you would write in your notes about today&#x27;s topic?</p><p><strong>架構：</strong>I believe ___. One reason is that ___. For example, ___. As a result, ___.</p><p><strong>範例：</strong>I believe daily practice is essential. One reason is that it builds ignore a response over time. For example, I review vocabulary every morning before work. As a result, I feel more prepared for academic tasks.</p><hr><h2>每日測驗（含答案）</h2><p><strong>Q1.</strong> Which definition best matches &#x27;ignore a response&#x27;?</p><ul><li>A. 與「忽略」相關的常用片語</li><li>B. 轉變</li><li>C. 與「產業」相關的常用片語</li><li>D. 洞察</li></ul><p><strong>答案：A</strong> — 今日單字 ignore a response 的解釋為「與「忽略」相關的常用片語」。</p><p><strong>Q2.</strong> What is the main idea of today&#x27;s reading?</p><ul><li>A. Effective learning requires consistent, structured practice.</li><li>B. Cramming once a week is the best method.</li><li>C. Vocabulary lists alone guarantee a high score.</li><li>D. Test preparation should avoid speaking practice.</li></ul><p><strong>答案：A</strong> — 文章強調有限時間下，持續且結構化的練習才能帶來進步。</p><p><strong>Q3.</strong> Which sentence uses today&#x27;s grammar pattern correctly?</p><ul><li>A. I like English. Because it is useful.</li><li>B. In my opinion, practice helps. One reason is that it builds fluency.</li><li>C. Practice good and fun.</li><li>D. English hard but I try.</li></ul><p><strong>答案：B</strong> — 選項 B 正確運用 In my opinion... One reason is that... 句型。</p><hr><p><em>祝學習順利！明日 09:00 將寄送下一課。</em></p>"
+  }
+}

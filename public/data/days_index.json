@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T01:00:02.359271+00:00",
-  "current_day": 7,
+  "updated_at": "2026-07-19T01:00:02.408122+00:00",
+  "current_day": 8,
   "days": [
     {
       "day": 1,
@@ -64,6 +64,15 @@
       "level": "B1+",
       "estimated_minutes": 16,
       "file": "day_007.json"
+    },
+    {
+      "day": 8,
+      "theme": "Career Development and Networking",
+      "date_label": "7/19",
+      "phase": "Foundation",
+      "level": "B1+",
+      "estimated_minutes": 17,
+      "file": "day_008.json"
     }
   ]
 }
